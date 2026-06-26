@@ -10,6 +10,6 @@ A Fabric client-side mod for Hypixel Skyblock Dungeons that automatically sends 
 - Detects trap deaths and calls them out
 - Zero performance impact — only reads chat messages, no polling or ticking
  
-##Important
+## Important
 Vibe coded by claude, I made some minor changes
 wasdwasd_. on discord for updates/suggestion
